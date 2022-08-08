@@ -23,3 +23,20 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+<div id="about">
+  <p>
+    <strong>:speech_balloon: About me:</strong>
+  </p>
+  <p>
+    My name is Breanda. I'm a SheCodes student and Front-end developer based in Japan.
+  </p>
+  <li> :computer: I’m currently working on a personal portfolio website. </li>
+  <li> :art: I’m currently learning Responsive design from SheCodes. </li>
+  <li> :potted_plant: Fun facts: I love watching K Dramas. I'm from Houston, Texas.</li>
+  <li> :blush: Pronouns: she/her.</li>
+</div>
+
+---
+
+:wrench: <strong>Tools & Technologies:</strong>
+
