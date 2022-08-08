@@ -13,9 +13,13 @@
     <img src="https://img.shields.io/badge/Codesandbox-aba5fe?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="DataCamp Badge" />
   </a>
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=breandabarnett&style=for-the-badge&logo=appveyorr&color=aba5fe" alt="Profile Views Badge" />
+</div>
+<br />
 <div id="greeting" align="center">
   <h1>
-    hi there
+    Hi there 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
