@@ -36,6 +36,7 @@
 <div id="projects" align="center">
    <h2>
      Projects
+     <img src="https://media.giphy.com/media/yPyF7MwUtM1I4/giphy.gif" width="25"/>
    </h2>
    <table>
     <td width="100%">
@@ -49,11 +50,16 @@
       </div>
       <div align="center">
         <p>
-          <strong>HTML, CSS, JS</strong>
+          A Weather Web App that shows temperatures of searched cities & your current location! 2nd Certification project for SheCodes Plus. HTML, CSS, JavaScript.
         </p>
-        <p>
-          A Weather Web App that shows temperatures of searched cities & your current location! 2nd Certification project for SheCodes Plus.
-        </p>
+        <span>
+				<a href="https://github.com/breandabarnett/Weather-App-Project" target="_blank">
+					<img height="25px" src="https://img.shields.io/badge/-repo-aba5fe?style=flat-square&logo=github&logoColor=white" alt="repository button" />
+				</a>
+				<a href="https://pastel-weather.netlify.app/" target="_blank">
+					<img height="25px" src="https://img.shields.io/badge/-live website-555555?style=flat-square" alt="website button" />
+				</a>
+        </span>
       </div>
     </td>
    </table>
