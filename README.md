@@ -33,6 +33,33 @@
 </div>
 <br />
 <br />
+<div id="projects" align="center">
+   <h2>
+     Projects
+   </h2>
+   <table>
+    <td width="100%">
+      <h3 align="center">
+        Pastel Weather | SheCodes Plus
+      </h3>
+      <div align="center">
+        <a href="https://github.com/breandabarnett/Weather-App-Project" target="_blank">
+          <img src="https://user-images.githubusercontent.com/104718008/183604758-b28d3f78-1757-44a3-ab2f-8d84318306a5.png" alt="weather project image" width="500" />
+        </a>
+      </div>
+      <div align="center">
+        <p>
+          <strong>HTML, CSS, JS</strong>
+        </p>
+        <p>
+          A Weather Web App that shows temperatures of searched cities & your current location! 2nd Certification project for SheCodes Plus.
+        </p>
+      </div>
+    </td>
+   </table>
+</div>
+<br />
+<br />
 <div id="tools" align="center">
   <h2>
     Tools & Technologies
