@@ -1,42 +1,51 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/104718008/183393259-75a80a56-01f0-4661-b96e-37a0e4187d62.png" width="200" />
 </div>
+<br />
 <div id="greeting" align="center">
   <h1>
     Hi there 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   </h1>
 </div>
-<div id="badges" align="center">
+<br />
+<div id="about">
+    I'm <strong>Breanda</strong>, a Front-End Developer based in Japan.
+</div>
+<br />
+<div>
+   <li> :seedling: Started learning web development March '22 </li>
+   <li> :desktop_computer: I'm <strong>working</strong> on a personal portfolio website. </li>
+   <li> :brain: I'm <strong>learning</strong> about responsive design from the SheCodes Responsive Workshop. </li>
+   <li> :space_invader: I'm <strong>participating</strong> in #100DaysofCode and sharing my journey on
+	   <a href="https://twitter.com/willowbriii">
+		   twitter</a>!</li>
+   <li> :gem: Fun facts: I love watching K Dramas and playing cozy games like ACNH.</li>
+   <li> :cowboy_hat_face: I'm from Houston, Texas.</li>
+   <li> 👩🏽‍🦱  Pronouns: she/her/they</li>
+<br />
+<br />
+<strong>Let's connect and inspire each other!</strong>
+</div>
+<br />
+<div id="badges">
   <a href="mailto:breanda.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-aba5fe?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   <a href="https://twitter.com/willowbriii">
     <img src="https://img.shields.io/badge/Twitter-aba5fe?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a> 
-</div>
-<br />
-<br />
-<div id="about">
-    My name is <strong>Breanda</strong>, a Front-End Developer based in Japan.
-</div>
-<br />
-<div>
-   <li> :seedling: Started learning web development March '22 </li>
-   <li> :spiral_notepad: I'm a SheCodes Responsive student. </li>
-   <li> :brain: Currently <strong>learning</strong> about responsive design. </li>
-   <li> :desktop_computer: Currently <strong>working</strong> on a personal portfolio website. </li>
-   <li> :space_invader: Currently <strong>participating</strong> in #100DaysofCode and sharing my journey on twitter! </li>
-   <li> :gem: Fun facts: I love watching K Dramas and playing cozy games like ACNH.</li>
-   <li> 👩🏽‍🦱  Pronouns: She/Her.</li>
+  <a href="https://instagram.com/willowbrii">
+    <img src="https://img.shields.io/badge/Instagram-aba5fe?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a> 
 </div>
 <br />
 <br />
 <div id="projects" align="center">
-   <h2>
+   <h1>
      Projects
      <img src="https://media.giphy.com/media/yPyF7MwUtM1I4/giphy.gif" width="25"/>
-   </h2>
+   </h1>
    <table>
     <td width="100%">
       <h3 align="center">
@@ -69,10 +78,10 @@
 <br />
 <br />
 <div id="tools" align="center">
-  <h2>
+  <h1>
     Tools & Technologies
     <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="50"/>
-  </h2>
+  </h1>
 <br />
 <div>
   <img src="https://img.shields.io/badge/HTML5-ed7d5e?style=for-the-badge&logo=html5&logoColor=white" />
