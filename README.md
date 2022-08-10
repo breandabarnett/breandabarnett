@@ -14,7 +14,6 @@
   <a href="https://twitter.com/willowbriii">
     <img src="https://img.shields.io/badge/Twitter-aba5fe?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a> 
-  <img src="https://komarev.com/ghpvc/?username=breandabarnett&style=for-the-badge&logo=appveyorr&color=aba5fe" alt="Profile Views Badge" />
 </div>
 <br />
 <br />
@@ -41,24 +40,27 @@
    <table>
     <td width="100%">
       <h3 align="center">
-        Pastel Weather | SheCodes Plus
+        Pastel Weather • SheCodes Plus
       </h3>
       <div align="center">
         <a href="https://github.com/breandabarnett/Weather-App-Project" target="_blank">
-          <img src="https://user-images.githubusercontent.com/104718008/183604758-b28d3f78-1757-44a3-ab2f-8d84318306a5.png" alt="weather project image" width="500" />
+          <img src="Profile-readme-images/pastel-weather.png" alt="weather project image" width="500" />
         </a>
       </div>
       <div align="center">
         <p>
-          A Weather Web App that shows temperatures of searched cities & your current location! 2nd Certification project for SheCodes Plus. HTML, CSS, JavaScript.
+          A Weather Web Application that shows temperatures of searched cities & your current location! Front End Development Certification project for SheCodes Plus. HTML, CSS, JavaScript.
         </p>
         <span>
-				<a href="https://github.com/breandabarnett/Weather-App-Project" target="_blank">
-					<img height="25px" src="https://img.shields.io/badge/-repo-aba5fe?style=flat-square&logo=github&logoColor=white" alt="repository button" />
-				</a>
-				<a href="https://pastel-weather.netlify.app/" target="_blank">
-					<img height="25px" src="https://img.shields.io/badge/-live website-555555?style=flat-square" alt="website button" />
-				</a>
+	  <a href="https://github.com/breandabarnett/Weather-App-Project" target="_blank">
+	    <img src="https://img.shields.io/badge/-repo-ABA5FE?style=flat-square&logo=github&logoColor=white" alt="repository button" height="25" />
+	  </a>
+	  <a href="https://pastel-weather.netlify.app/" target="_blank">
+	    <img src="https://img.shields.io/badge/-website-ABA5FE?style=flat-square" alt="website button" height="25"/>
+	  </a>
+	  <a href="https://www.shecodes.io/graduates/39418-breanda-barnett" target="_blank">
+	    <img src="https://img.shields.io/badge/-certificate-4D5156?style=flat-square" alt="certificate button" height="25"/>
+	  </a>
         </span>
       </div>
     </td>
