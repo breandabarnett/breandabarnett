@@ -53,7 +53,7 @@
       </h3>
       <div align="center">
         <a href="https://github.com/breandabarnett/Weather-App-Project" target="_blank">
-          <img src="Profile-readme-images/pastel-weather.png" alt="weather project image" width="500" />
+          <img src="Profile-readme-images/Pastel-Weather-banner.png" alt="weather project image" width="500" />
         </a>
       </div>
       <div align="center">
