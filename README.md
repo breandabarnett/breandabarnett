@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="Profile-readme-images/github-hello.png" width="250" />
+  <img src="github-hello.png" width="280" />
 </div>
 <br />
 <br />
