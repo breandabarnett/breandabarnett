@@ -24,7 +24,7 @@ I enjoy playing cozy video games like ACNH & Stardew Valley!
 <br />
 <div>
 <p>
-<h3>Let's connect and inspire each other! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h3>
+<h3>Let's connect & inspire each other! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h3>
 </p>
 </div>
 <div id="badges">
