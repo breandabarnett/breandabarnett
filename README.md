@@ -30,6 +30,9 @@ I enjoy playing cozy video games like ACNH & Stardew Valley!
 <div id="badges">
   <a href="https://breanda.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-5cafb1?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio badge" title="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/breanda/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" title="LinkedIn" />
   </a> 
   <a href="https://twitter.com/willowbriii">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge" title="Twitter" />
@@ -37,9 +40,6 @@ I enjoy playing cozy video games like ACNH & Stardew Valley!
   <a href="mailto:breanda.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" title="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/breanda/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" title="LinkedIn" />
-  </a> 
 </div>
 <br />
 <hr />
