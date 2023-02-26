@@ -58,14 +58,13 @@ I enjoy playing cozy video games like ACNH & Stardew Valley!
   </div>
 <div>
   <img src="https://img.shields.io/badge/VSCode-2694e2?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-ed6c55?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </div>
-<div>
   <a href="https://codesandbox.io/u/breanda.barnett">
     <img src="https://img.shields.io/badge/Codesandbox-727272?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="Codesandbox Badge" /></a>
+  </div>
+<div>
   <img src="https://img.shields.io/badge/SEO-34A853?style=for-the-badge&logo=Google&logoColor=white" />
   <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
