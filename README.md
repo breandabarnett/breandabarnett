@@ -42,7 +42,6 @@ I enjoy playing cozy video games like ACNH & Stardew Valley!
   </a>
 </div>
 <br />
-<hr />
 <br />
 <div id="tools" align="center">
   <h3>
@@ -70,5 +69,7 @@ I enjoy playing cozy video games like ACNH & Stardew Valley!
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
-<br />
 </div>
+<br />
+<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=5cafb1" alt="footer wave animation" />
