@@ -3,33 +3,64 @@
 </div>
 <br />
 <br />
-<div id="about" align="center">
+<div id="about">
 <div>
 <p>
-<strong><h3>Hello! My name is Breanda Barnett.</h3></strong>
+<strong><h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> My name is Breanda Barnett.</h3></strong>
 </p>
 <p>
 I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. Currently, I am sharpening my skills in React Development. I have a passion for creating seamless web experiences with user-friendly design. As I embark on a career in tech, I'm excited to find front-end development opportunities within Japan or the USA.
 </p>
 <br />
 <p>
-<strong><em>Fun facts:</em></strong>
-<br />
-I started learning web development March '22.
-<br />
-I enjoy playing cozy video games like ACNH & Stardew Valley!
+  <strong><em>🌱 Currently focusing on...</em></strong>
+  <ul>
+    <li>
+      <a href="https://www.theodinproject.com/paths/foundations/courses/foundations"><strong>The Odin Project: Foundations</strong></a>
+    </li>
+  </ul>
+  </p>
+  <br />
+ <p>
+  <strong><em>🖥️ Projects I've built...</em></strong>
+   <ul>
+    <li>
+      <a href="https://github.com/breandabarnett/dictionary-project"><strong>React.Dictionary App</strong></a>
+    </li>
+    <li>
+      <a href="https://github.com/breandabarnett/react-weather-app"><strong>Aqua Weather App</strong></a>
+     </li>
+    <li>
+      <a href="https://github.com/breandabarnett/houseplant-landing-page"><strong>Houseplant for Small Spaces Quiz Page</strong></a>
+    </li>
+  </ul>
+  </p>
+ <br />
+<p>
+<strong><em>💎 Fun facts...</em></strong>
+<ul>
+  <li>
+    I started learning web development March '22.
+  </li>
+  <li>
+    I enjoy playing cozy video games like ACNH & Stardew Valley!
+  </li>
+ </ul>
 </p>
 </div>
 <br />
 <br />
 <div>
 <p>
-<h3>Let's connect & inspire each other! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h3>
+  <h3>📮 Let's connect & inspire each other!</h3>
 </p>
 </div>
 <div id="badges">
   <a href="https://breanda.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-5cafb1?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio badge" title="Portfolio" />
+  </a>
+   <a href="mailto:breanda.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" title="Email" />
   </a>
   <a href="https://www.linkedin.com/in/breanda/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" title="LinkedIn" />
@@ -37,16 +68,13 @@ I enjoy playing cozy video games like ACNH & Stardew Valley!
   <a href="https://twitter.com/willowbriii">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge" title="Twitter" />
   </a> 
-  <a href="mailto:breanda.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" title="Email" />
-  </a>
 </div>
 <br />
 <br />
-<div id="tools" align="center">
+<div id="tools">
   <h3>
-    Toolkit & Technologies
-    <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="50"/>
+    <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="50"/> Toolkit & Technologies
+    
   </h3>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
