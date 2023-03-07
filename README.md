@@ -6,7 +6,7 @@
 <div id="about">
 <div>
 <p>
-<strong><h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> My name is Breanda Barnett.</h3></strong>
+<strong><h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Hello! My name is Breanda</h3></strong>
 </p>
 <p>
 I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. Currently, I am sharpening my skills in React Development. I have a passion for creating seamless web experiences with user-friendly design. As I embark on a career in tech, I'm excited to find front-end development opportunities within Japan or the USA.
@@ -16,7 +16,7 @@ I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. 
   <strong><em>🌱 Currently focusing on...</em></strong>
   <ul>
     <li>
-      <a href="https://www.theodinproject.com/paths/foundations/courses/foundations"><strong>The Odin Project: Foundations</strong></a>
+      <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" title="The Odin Project"><strong>The Odin Project: Foundations</strong></a>
     </li>
   </ul>
   </p>
@@ -25,13 +25,13 @@ I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. 
   <strong><em>🖥️ Projects I've built...</em></strong>
    <ul>
     <li>
-      <a href="https://github.com/breandabarnett/dictionary-project"><strong>React.Dictionary App</strong></a>
+      <a href="https://github.com/breandabarnett/dictionary-project" title="React.Dictionary GitHub Repo"><strong>React.Dictionary App</strong></a>
     </li>
     <li>
-      <a href="https://github.com/breandabarnett/react-weather-app"><strong>Aqua Weather App</strong></a>
+      <a href="https://github.com/breandabarnett/react-weather-app" title="Aqua Weather GitHub Repo"><strong>Aqua Weather App</strong></a>
      </li>
     <li>
-      <a href="https://github.com/breandabarnett/houseplant-landing-page"><strong>Houseplant for Small Spaces Quiz Page</strong></a>
+      <a href="https://github.com/breandabarnett/houseplant-landing-page" title="Houseplant Page GitHub Repo"><strong>Houseplant for Small Spaces Quiz Page</strong></a>
     </li>
   </ul>
   </p>
@@ -98,6 +98,7 @@ I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. 
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 </div>
+<br />
 <br />
 <br />
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=5cafb1" alt="footer wave animation" />
