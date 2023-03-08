@@ -6,14 +6,14 @@
 <div id="about">
 <div>
 <p>
-<strong><h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Hello! My name is Breanda</h3></strong>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Hello! My name is Breanda</h1>
 </p>
 <p>
 I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. Currently, I am sharpening my skills in React Development. I have a passion for creating seamless web experiences with user-friendly design. As I embark on a career in tech, I'm excited to find front-end development opportunities within Japan or the USA.
 </p>
 <br />
 <p>
-  <strong><em>🌱 Currently focusing on...</em></strong>
+  <h3><em>🌱 Currently focusing on...</em></h3>
   <ul>
     <li>
       <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" title="The Odin Project"><strong>The Odin Project: Foundations</strong></a>
@@ -22,7 +22,7 @@ I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. 
   </p>
   <br />
  <p>
-  <strong><em>🖥️ Projects I've built...</em></strong>
+  <h3><em>🖥️ Projects I've built...</em></h3>
    <ul>
     <li>
       <a href="https://github.com/breandabarnett/dictionary-project" title="React.Dictionary GitHub Repo"><strong>React.Dictionary App</strong></a>
@@ -37,7 +37,7 @@ I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. 
   </p>
  <br />
 <p>
-<strong><em>💎 Fun facts...</em></strong>
+<h3><em>💎 Fun facts...</em></h3>
 <ul>
   <li>
     I started learning web development March '22.
