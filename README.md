@@ -30,6 +30,9 @@ I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. 
     <li>
       <a href="https://github.com/breandabarnett/react-weather-app" title="Aqua Weather GitHub Repo"><strong>Aqua Weather App</strong></a>
      </li>
+     <li>
+      <a href="https://github.com/breandabarnett/odin-recipes" title="Odin Recipes GitHub Repo"><strong>Odin Recipes Blogsite</strong></a>
+     </li>
     <li>
       <a href="https://github.com/breandabarnett/houseplant-landing-page" title="Houseplant Page GitHub Repo"><strong>Houseplant for Small Spaces Quiz Page</strong></a>
     </li>
