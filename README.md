@@ -6,14 +6,14 @@
 <div id="about">
 <div>
 <p>
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Hello! My name is Breanda</h1>
+<strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22"/> Hello! My name is Breanda</strong>
 </p>
 <p>
-I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. Currently, I am sharpening my skills in React Development. I have a passion for creating seamless web experiences with user-friendly design. As I embark on a career in tech, I'm excited to find front-end development opportunities within Japan or the USA.
+I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. Currently, I am sharpening my skills in React Development. I have a passion for creating seamless web experiences with user-friendly design.
 </p>
 <br />
 <p>
-  <h3><em>🌱 Currently focusing on...</em></h3>
+  <strong>🌱 Currently focusing on...</strong>
   <ul>
     <li>
       <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" title="The Odin Project"><strong>The Odin Project: Foundations</strong></a>
@@ -22,7 +22,7 @@ I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. 
   </p>
   <br />
  <p>
-  <h3><em>🖥️ Projects I've built...</em></h3>
+  <strong>🖥️ Projects I've built...</strong>
    <ul>
     <li>
       <a href="https://github.com/breandabarnett/dictionary-project" title="React.Dictionary GitHub Repo"><strong>React.Dictionary App</strong></a>
@@ -40,7 +40,7 @@ I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. 
   </p>
  <br />
 <p>
-<h3><em>💎 Fun facts...</em></h3>
+<strong>💎 Fun facts...</strong>
 <ul>
   <li>
     I started learning web development March '22.
@@ -55,7 +55,7 @@ I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. 
 <br />
 <div>
 <p>
-  <h3>📮 Let's connect & inspire each other!</h3>
+  <strong>📮 Let's connect & inspire each other!</strong>
 </p>
 </div>
 <div id="badges">
@@ -75,11 +75,11 @@ I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. 
 <br />
 <br />
 <div id="tools">
-  <h3>
-    <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="50"/> Toolkit & Technologies
-    
-  </h3>
+  <strong>
+    <img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif" width="30"/> Toolkit & Technologies
+  </strong>
 <div>
+  <br />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
