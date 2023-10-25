@@ -16,6 +16,12 @@ I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. 
   <strong>🌱 Currently focusing on...</strong>
   <ul>
     <li>
+      <a href="https://www.freecodecamp.org/news/programming-in-typescript/" title="freeCodeCamp"><strong>FCC: Programming in TypeScript</strong></a>
+    </li>
+    <li>
+      <a href="https://www.freecodecamp.org/learn/front-end-development-libraries/" title="freeCodeCamp"><strong>FCC: Front End Development Libraries</strong></a>
+    </li>
+    <li>
       <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" title="The Odin Project"><strong>The Odin Project: Foundations</strong></a>
     </li>
   </ul>
