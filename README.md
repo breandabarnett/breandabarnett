@@ -28,7 +28,7 @@ I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. 
   </p>
   <br />
  <p>
-  <strong>🖥️ Projects I've built...</strong>
+  <strong>🖥️ Some Projects I've built...</strong>
    <ul>
     <li>
       <a href="https://github.com/breandabarnett/dictionary-project" title="React.Dictionary GitHub Repo"><strong>React.Dictionary App</strong></a>
@@ -75,7 +75,8 @@ I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" title="LinkedIn" />
   </a> 
   <a href="https://twitter.com/willowbriii">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge" title="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-3a464b?style=for-the-badge&logo=x&logoColor=white" alt="X badge" title="Twitter" />
+    
   </a> 
 </div>
 <br />
@@ -86,23 +87,21 @@ I’m a front-end developer based in Tokyo, Japan with roots in Houston, Texas. 
   </strong>
 <div>
   <br />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </div>
 <div>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-2694e2?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-ed6c55?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <a href="https://codesandbox.io/u/breanda.barnett">
-    <img src="https://img.shields.io/badge/Codesandbox-727272?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="Codesandbox Badge" /></a>
   </div>
 <div>
   <img src="https://img.shields.io/badge/SEO-34A853?style=for-the-badge&logo=Google&logoColor=white" />
-  <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
